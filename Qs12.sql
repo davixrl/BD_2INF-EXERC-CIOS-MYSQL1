@@ -1,0 +1,2 @@
+ALTER TABLE Nota_fiscal
+DROP COLUMN Data_NF;
